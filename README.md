@@ -9,5 +9,6 @@ Welcome to the **Diamond Price Prediction** project! This repository contains a 
 - **Feature Engineering**: Create meaningful features to improve model performance.
 - **Model Training**: Train machine learning models to predict diamond prices.
 - **Model Evaluation**: Evaluate and compare the performance of different models.
+- 
 
 
