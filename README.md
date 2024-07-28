@@ -11,8 +11,3 @@ Welcome to the **Diamond Price Prediction** project! This repository contains a 
 - **Model Evaluation**: Evaluate and compare the performance of different models.
 
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/sumenchalla/DimondPricePrediction
-   cd diamond-price-prediction
-
